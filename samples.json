@@ -1,0 +1,7 @@
+[
+  { "external_id": "c_1", "customer_id": "u_1", "source": "chatbot",
+    "raw_text": "My shipment is late and I am really annoyed!", "sentiment": null },
+  { "external_id": "c_2", "customer_id": "u_2", "source": "chatbot",
+    "raw_text": "Thanks, it arrived today. All good now.", "sentiment": null }
+]
+
